@@ -22,7 +22,7 @@ We realized that DARPA had put out the $6.5 Million bounty on the 4:1 payload ob
 
 After some serious brainstorming, our team came up with a new idea: the HALO system. The HALO system is a circular wing that is controlled by gimbals on the drone, which allows us to control the angle of attack of the wing relative to the drone. This gives us full control of the lift and drag it generates, allowing us to minimize lifting burden on the drone body at every stage of flight.
 
-#My role in this was designing the power system and digital logic to support this new form factor.
+# My role in this was designing the power system and digital logic to support this new form factor.
 
 Astra MK1 Demo
 https://youtu.be/YYoOido-WJY
