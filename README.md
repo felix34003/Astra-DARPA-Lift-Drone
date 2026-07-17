@@ -27,4 +27,7 @@ After some serious brainstorming, our team came up with a new idea: the HALO sys
 Astra MK1 Demo
 https://youtu.be/YYoOido-WJY
 
-Astra MK1 and MK2 power system design drawings are included in the repository.
+## Electrical Blueprints
+
+- [Astra Mark 1 Electrical System Blueprint (PDF)](ASTRA_MK1_ELECTRICAL_SYSTEM_BLUEPRINTS.pdf)
+- [Astra Mark 2 Electrical System Blueprint (SVG)](ASTRA_MK2_ELECTRICAL_SYSTEM_BLUEPRINTS.svg)
