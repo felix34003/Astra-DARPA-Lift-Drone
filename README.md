@@ -8,7 +8,7 @@ Meet Astra, the ASTRO Systems team's design for the DARPA Lift Challenge. Learn 
 
 Traditional drone designs attempt to enhance performance through brute force methods, such as increasing the size of the motors and batteries. Astra takes a different approach. 
 
-There are a couple of things were wrong with the traditional approach:
+There are a couple of problems with the traditional approach:
 
 1.) Brute force methods by definition lead to diminishing returns.
 - Larger motors and batteries means more weight needs to be carried. Meaning more energy needs to be used.
